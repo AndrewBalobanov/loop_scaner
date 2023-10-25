@@ -102,6 +102,5 @@ for file in files:
 
     top_row(result)
 
-print('Hello world')
 
 
